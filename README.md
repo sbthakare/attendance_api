@@ -84,3 +84,7 @@ python sample_seed.py
 
 Check each endpoint's request and response schema in `/docs`; timestamps in the API are epoch milliseconds.
 
+
+<img width="1537" height="843" alt="image" src="https://github.com/user-attachments/assets/41a84240-6870-4f12-b599-c192c27b5a10" />
+
+
