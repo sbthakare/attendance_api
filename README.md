@@ -84,13 +84,3 @@ python sample_seed.py
 
 Check each endpoint's request and response schema in `/docs`; timestamps in the API are epoch milliseconds.
 
-## Submission checklist
-
-- [ ] Ensure the repository contains `app/main.py`, `requirements.txt`, `REVIEW.md`, `DECISIONS.md`, and this `README.md`.
-- [ ] In `REVIEW.md`, complete the requested review of the existing code.
-- [ ] In `DECISIONS.md`, explain the requested design decisions.
-- [ ] If any assignment work is incomplete, list what is missing here before submitting.
-- [ ] Confirm no `.env`, credentials, or Dockerfile are included.
-- [ ] Push the completed work to a **public Git repository** and submit its URL through the application form, using the same email address used to apply.
-
-**Deadline:** 11:59 PM IST on Thursday, 15 October 2026. The repository is evaluated as it exists immediately after the deadline. Keep it public until 31 October 2026.
